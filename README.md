@@ -7,7 +7,7 @@
 ## 💡 About This Project
 
 This project is only for Leecode practice.  
-只是寫練習題，把練習跟思考寫一寫
+只是寫練習題，把練習跟思考寫一寫  
 語言不固定，想練啥語言就用啥語言（
 
 ---
